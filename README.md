@@ -1,4 +1,7 @@
 # 👋 Hola, sóc Javier Grima! 
+
+![GIF de benvinguda](![image](https://github.com/user-attachments/assets/90cb1806-cf01-4896-a723-1ee09ce3ce6e)
+
 <div align="center">
   <h1>✨ Benvingut al meu GitHub! ✨</h1>
   <p>🌟 Apassionat per la tecnologia i el desenvolupament personal. Explorant l’univers de la informàtica! 🌟</p>
