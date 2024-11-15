@@ -1,6 +1,5 @@
 # 👋 Hola, sóc Javier Grima! 
 <div align="center">
-  <img src="https://via.placeholder.com/200" alt="Perfil" width="200" style="border-radius: 50%;">
   <h1>✨ Benvingut al meu GitHub! ✨</h1>
   <p>🌟 Apassionat per la tecnologia i el desenvolupament personal. Explorant l’univers de la informàtica! 🌟</p>
 </div>
