@@ -1,3 +1,4 @@
 #Hola a todos😊👋
 
-[Currículum Javier Grima.pdf](https://github.com/user-attachments/files/17775101/Curriculum.Javier.Grima.pdf)
+![image](https://github.com/user-attachments/assets/f3509f9e-f29e-4a13-a015-0e3bfd1a9cf8)
+
