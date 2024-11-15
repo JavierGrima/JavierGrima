@@ -1,4 +1,5 @@
 # 👋 Hola, sóc Javier Grima! 
 
-![image](https://github.com/user-attachments/assets/f3509f9e-f29e-4a13-a015-0e3bfd1a9cf8)
+![image](https://github.com/user-attachments/assets/b7dce057-63a0-4456-b9d4-32d6d84aac95)
+
 
