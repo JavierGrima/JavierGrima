@@ -34,7 +34,6 @@
 ## 📊 Estadístiques del meu perfil
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=javiergrima&show_icons=true&theme=radical" alt="Estadístiques de Javier" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergrima&layout=compact&theme=radical" alt="Llenguatges més usats" />
 </div>
 
 ---
