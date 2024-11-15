@@ -1,7 +1,6 @@
 # 👋 Hola, sóc Javier Grima! 
-
+![6](https://github.com/user-attachments/assets/91a3c053-54fd-4bd0-a216-d139c813ca61)
 <div align="center">
-  ![6](https://github.com/user-attachments/assets/91a3c053-54fd-4bd0-a216-d139c813ca61)
   <p>🌟 Apassionat per la tecnologia i el desenvolupament personal. Explorant l’univers de la informàtica! 🌟</p>
 </div>
 
