@@ -46,8 +46,8 @@
 ---
 
 ## 🔗 Connecta amb mi
-- 🌍 [LinkedIn](#)  
-- 📧 [Email](mailto:javiergrimavivas@gmail.com)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/javier-grima-vivas-20252129a/)  
+- 📧 [Email](mailto:javier.grima@gracia.lasalle.cat)
 
 ---
 
