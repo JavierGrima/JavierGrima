@@ -1,6 +1,6 @@
 # 👋 Hola, sóc Javier Grima! 
 
-![image](https://github.com/user-attachments/assets/90cb1806-cf01-4896-a723-1ee09ce3ce6e)
+![6](https://github.com/user-attachments/assets/91a3c053-54fd-4bd0-a216-d139c813ca61)
 
 <div align="center">
   <h1>✨ Benvingut al meu GitHub! ✨</h1>
